@@ -1,0 +1,12 @@
+
+.content {
+   grid-area: c;
+}
+
+.content img {
+   width: 80px;
+}
+
+.descriptionBlock {
+   padding: 10px;
+}
